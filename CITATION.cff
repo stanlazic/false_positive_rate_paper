@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: >-
+  Why multiple hypothesis test corrections provide poor
+  control of false positives in the real world
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Stanley
+    name-particle: E.
+    family-names: Lazic
+    affiliation: Prioris.ai Inc
+repository-code: 'https://github.com/stanlazic/false_positive_rate_paper'
+abstract: >-
+  R code for "Why multiple hypothesis test corrections
+  provide poor control of false positives in the real
+  world".
+license: CC-BY-SA-4.0
+date-released: '2023-07-26'
