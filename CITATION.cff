@@ -7,8 +7,7 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Stanley
-    name-particle: E.
+  - given-names: Stanley E.
     family-names: Lazic
     affiliation: Prioris.ai Inc
 repository-code: 'https://github.com/stanlazic/false_positive_rate_paper'
